@@ -1,0 +1,78 @@
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+  
+.employees-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+  
+.employees-table th, .employees-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+  
+.employees-table th {
+    background-color: #f4f4f4;
+}
+
+/* עיצוב לכפתורי Edit ו- Delete */
+.edit-btn, .delete-btn {
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* עיצוב לכפתור Edit */
+.edit-btn {
+    background-color: #4CAF50; /* ירוק */
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+/* עיצוב לכפתור Delete */
+.delete-btn {
+    background-color: #f44336; /* אדום */
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+/* אפקטים בהעבר עכבר */
+.edit-btn:hover {
+    background-color: #45a049;
+}
+
+.delete-btn:hover {
+    background-color: #d32f2f;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.add-employee-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-employee-btn:hover {
+    background-color: #0056b3;
+}
+
+  

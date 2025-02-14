@@ -1,0 +1,958 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90D69D42-DF49-4DD9-A10F-2F9537DE223C}|..\\Ui\\Ui.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\ui\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D69D42-DF49-4DD9-A10F-2F9537DE223C}|..\\Ui\\Ui.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4146F7E-56EE-45E1-B1BB-57D15D3E2F64}|..\\Services\\Services.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\services\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4146F7E-56EE-45E1-B1BB-57D15D3E2F64}|..\\Services\\Services.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\services\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4146F7E-56EE-45E1-B1BB-57D15D3E2F64}|..\\Services\\Services.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\services\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4146F7E-56EE-45E1-B1BB-57D15D3E2F64}|..\\Services\\Services.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D69D42-DF49-4DD9-A10F-2F9537DE223C}|..\\Ui\\Ui.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4146F7E-56EE-45E1-B1BB-57D15D3E2F64}|..\\Services\\Services.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\services\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4146F7E-56EE-45E1-B1BB-57D15D3E2F64}|..\\Services\\Services.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C00B16C-77E1-4BA2-8CD6-EE88612CAC18}|..\\Common\\Common.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\common\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C00B16C-77E1-4BA2-8CD6-EE88612CAC18}|..\\Common\\Common.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\common\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D69D42-DF49-4DD9-A10F-2F9537DE223C}|..\\Ui\\Ui.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B1C55E-65F0-4871-A306-4BCD4EE1E9A9}|..\\Context\\Context.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\context\\employeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213225809_addSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B1C55E-65F0-4871-A306-4BCD4EE1E9A9}|..\\Context\\Context.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\context\\migrations\\employeemanagementmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B1C55E-65F0-4871-A306-4BCD4EE1E9A9}|..\\Context\\Context.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\context\\migrations\\20250213222524_addsettingtoentuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213145132_initCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repository.csproj|solutionrelative:repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C00B16C-77E1-4BA2-8CD6-EE88612CAC18}|..\\Common\\Common.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B1C55E-65F0-4871-A306-4BCD4EE1E9A9}|..\\Context\\Context.csproj|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\project\\context\\migrations\\20250213112452_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05D1\u05D9\u05E0\u05EA \u05DE\u05E2\u05E8\u05DB\u05D5\u05EA\\Project\\repository\\Entities\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210121510_Create1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210113743_initCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210112707_AddSetting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210111704_AddSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210111358_adddefalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210104939_UpdateData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250209133654_initCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repositories.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repositories.csproj|solutionrelative:servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repositories.csproj|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B770DD-7EAF-4019-AC04-8E73FD517A46}|Repositories.csproj|solutionrelative:interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\context\\employeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\interface\\iemployeeroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\services\\employeeroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\ui\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210124336_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\context\\context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\common\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\common\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\common\\dtos\\employeeroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\\u05E6\u05D9\u05D1\u05D9\\desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\shopproject\\ui\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "..\\Ui\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "..\\Ui\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAwwDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:14:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "..\\Ui\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "..\\Ui\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:02:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ui\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Program.cs",
+              "RelativeToolTip": "..\\Ui\\Program.cs",
+              "ViewState": "AQIAACkAAAAAzMzMzMz8vysAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:01:43.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\Services\\Interface\\IEmployeeService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:57:42.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Interface\\IRoleService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Interface\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Interface\\IRoleService.cs",
+              "RelativeToolTip": "..\\Services\\Interface\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:28:18.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "..\\Services\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:02:18.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Services\\RoleService.cs",
+              "RelativeToolTip": "..\\Services\\Services\\RoleService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:00:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "..\\Services\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:20:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Mapper.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Mapper.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Services\\Mapper.cs",
+              "RelativeToolTip": "..\\Services\\Mapper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:02:00.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:08:56.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:16:36.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:10:01.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\IRoleRepository.cs",
+              "RelativeToolTip": "Interface\\IRoleRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:02:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Interface\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:48:45.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Icontext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\Icontext.cs",
+              "RelativeDocumentMoniker": "Interface\\Icontext.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\Icontext.cs",
+              "RelativeToolTip": "Interface\\Icontext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:38:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:52:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwD4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:27:33.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Common\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "..\\Common\\DTOs\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Common\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "..\\Common\\DTOs\\RoleDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:39:11.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Common\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "..\\Common\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Common\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "..\\Common\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA3wBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:04:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ui",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Ui.csproj",
+              "RelativeDocumentMoniker": "..\\Ui\\Ui.csproj",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Ui\\Ui.csproj",
+              "RelativeToolTip": "..\\Ui\\Ui.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T23:01:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeManagement.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\EmployeeManagement.cs",
+              "RelativeDocumentMoniker": "..\\Context\\EmployeeManagement.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\EmployeeManagement.cs",
+              "RelativeToolTip": "..\\Context\\EmployeeManagement.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:22:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250213225809_addSetting.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213225809_addSetting.cs",
+              "RelativeDocumentMoniker": "..\\Context\\Migrations\\20250213225809_addSetting.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213225809_addSetting.cs",
+              "RelativeToolTip": "..\\Context\\Migrations\\20250213225809_addSetting.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:58:09.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeManagementModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\EmployeeManagementModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Context\\Migrations\\EmployeeManagementModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\EmployeeManagementModelSnapshot.cs",
+              "RelativeToolTip": "..\\Context\\Migrations\\EmployeeManagementModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:31:04.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250213222524_addSettingToEntuty.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213222524_addSettingToEntuty.cs",
+              "RelativeDocumentMoniker": "..\\Context\\Migrations\\20250213222524_addSettingToEntuty.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213222524_addSettingToEntuty.cs",
+              "RelativeToolTip": "..\\Context\\Migrations\\20250213222524_addSettingToEntuty.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:25:25.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250213145132_initCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213145132_initCreate1.cs",
+              "RelativeDocumentMoniker": "..\\Context\\Migrations\\20250213145132_initCreate1.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213145132_initCreate1.cs",
+              "RelativeToolTip": "..\\Context\\Migrations\\20250213145132_initCreate1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:51:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository.csproj",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Repository.csproj",
+              "RelativeToolTip": "Repository.csproj",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T11:15:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "..\\Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Common\\Common.csproj",
+              "RelativeToolTip": "..\\Common\\Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T11:05:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250213112452_initCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213112452_initCreate.cs",
+              "RelativeDocumentMoniker": "..\\Context\\Migrations\\20250213112452_initCreate.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\Context\\Migrations\\20250213112452_initCreate.cs",
+              "RelativeToolTip": "..\\Context\\Migrations\\20250213112452_initCreate.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwCkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:24:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\\u05D1\u05D9\u05E0\u05EA \u05DE\u05E2\u05E8\u05DB\u05D5\u05EA\\Project\\repository\\Entities\\Employee.cs",
+              "ToolTip": "E:\\\u05D1\u05D9\u05E0\u05EA \u05DE\u05E2\u05E8\u05DB\u05D5\u05EA\\Project\\repository\\Entities\\Employee.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:48:25.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Ui\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Program.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Ui\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAEwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:40:57.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Ui\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Ui\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwGwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:49:46.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeeManagement.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\EmployeeManagement.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\EmployeeManagement.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\EmployeeManagement.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\EmployeeManagement.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAEwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:48:52.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAvwEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:29:28.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Interface\\IEmployeeService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:29:05.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEmployeeRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Interface\\IEmployeeRoleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Interface\\IEmployeeRoleService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Interface\\IEmployeeRoleService.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Interface\\IEmployeeRoleService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:30:17.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Interface\\IRoleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Interface\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Interface\\IRoleService.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Interface\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:31:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmployeeRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\EmployeeRoleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Services\\EmployeeRoleService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\EmployeeRoleService.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Services\\EmployeeRoleService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:29:55.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Ui\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Ui\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:01:01.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Ui.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Ui.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Ui\\Ui.csproj",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\Ui.csproj",
+              "RelativeToolTip": "..\\..\\ShopProject\\Ui\\Ui.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T19:13:01.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\RoleService.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Services\\RoleService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:30:26.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250210124336_Create.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210124336_Create.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250210124336_Create.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210124336_Create.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250210124336_Create.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:43:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Context.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Context.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Context.csproj",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Context.csproj",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Context.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T18:43:22.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Common\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Common\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:49:10.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250210121510_Create1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210121510_Create1.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250210121510_Create1.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210121510_Create1.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250210121510_Create1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:15:10.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\Common.csproj",
+              "RelativeToolTip": "..\\..\\ShopProject\\Common\\Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T12:14:14.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Mapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Mapper.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Mapper.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Mapper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:23:29.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:32:16.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250210112707_AddSetting2.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210112707_AddSetting2.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250210112707_AddSetting2.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210112707_AddSetting2.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250210112707_AddSetting2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:27:07.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250210113743_initCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210113743_initCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250210113743_initCreate.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210113743_initCreate.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250210113743_initCreate.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:37:43.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250210111358_adddefalt.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210111358_adddefalt.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250210111358_adddefalt.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210111358_adddefalt.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250210111358_adddefalt.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:13:58.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250210111704_AddSetting.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210111704_AddSetting.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250210111704_AddSetting.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210111704_AddSetting.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250210111704_AddSetting.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:17:05.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Common\\DTOs\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Common\\DTOs\\RoleDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:57:48.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EmployeeRoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\DTOs\\EmployeeRoleDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Common\\DTOs\\EmployeeRoleDTO.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Common\\DTOs\\EmployeeRoleDTO.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Common\\DTOs\\EmployeeRoleDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:53:47.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:10:54.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250210104939_UpdateData.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210104939_UpdateData.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250210104939_UpdateData.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250210104939_UpdateData.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250210104939_UpdateData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:49:39.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Services\\Services.csproj",
+              "RelativeToolTip": "..\\..\\ShopProject\\Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T11:03:27.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250209133654_initCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250209133654_initCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Context\\Migrations\\20250209133654_initCreate.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Context\\Migrations\\20250209133654_initCreate.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Context\\Migrations\\20250209133654_initCreate.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwGEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:36:54.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:03:05.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopProject\\Ui\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\ShopProject\\Ui\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\..\\ShopProject\\Ui\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:41:55.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Icontext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\Icontext.cs",
+              "RelativeDocumentMoniker": "Interface\\Icontext.cs",
+              "ToolTip": "C:\\Users\\\u05E6\u05D9\u05D1\u05D9\\Desktop\\\u05E7\u05D5\u05D3 \u05E4\u05D9\u05E8\u05E1\u05D8\\Project\\repository\\Interface\\Icontext.cs",
+              "RelativeToolTip": "Interface\\Icontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:12:35.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

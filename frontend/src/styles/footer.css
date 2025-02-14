@@ -1,0 +1,12 @@
+.footer {
+  background-color: #f8f9fa; /* רקע אפור בהיר */
+  text-align: center;
+  padding: 20px 0; /* הגדלנו את ה-padding */
+  font-size: 1.1rem; /* הגדלנו את גודל הפונט */
+  font-weight: bold;
+  color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 3px solid #ddd; /* הוספת קו הפרדה עליון */
+}
